@@ -1,0 +1,36 @@
+{
+	"edges": [
+		{
+			"id": "reactflow__edge-capsule_m_lflow_capsule_1-results",
+			"source": "capsule_m_lflow_capsule_1",
+			"target": "results"
+		}
+	],
+	"nodes": [
+		{
+			"data": {
+				"capsule_id": "cddaadc0-b6a9-4f30-843b-3eb1d4381e91"
+			},
+			"id": "capsule_m_lflow_capsule_1",
+			"position": {
+				"x": 680.2666422526041,
+				"y": 592.5333353678385
+			},
+			"type": "capsule"
+		},
+		{
+			"id": "results",
+			"position": {
+				"x": 800.2666422526041,
+				"y": 992.5333353678385
+			},
+			"type": "results"
+		}
+	],
+	"timestamp": 1723540827747,
+	"viewport": {
+		"x": 0,
+		"y": 0,
+		"zoom": 0.75
+	}
+}

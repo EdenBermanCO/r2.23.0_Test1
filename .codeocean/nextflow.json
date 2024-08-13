@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"processes": [
+		{
+			"name": "capsule_m_lflow_capsule_1",
+			"capsule": {
+				"id": "cddaadc0-b6a9-4f30-843b-3eb1d4381e91",
+				"name": "MLflow Capsule",
+				"slug": "2295245",
+				"commit": "e13bc9d3b61f505dbb2d7486e82d198c867da843",
+				"image_tag": "226f32a97b582df8b26795c82f5caba5"
+			},
+			"resources": {
+				"cpus": 1,
+				"memory": 8
+			},
+			"results": {
+				"id": "cddaadc0-b6a9-4f30-843b-3eb1d4381e91"
+			}
+		}
+	]
+}
